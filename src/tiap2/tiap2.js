@@ -1,4 +1,8 @@
 import chekt from '../img/Check.png'
+import ps from '../img/Layer 1.png'
+import gy from '../img/Layer 5.png'
+import ps1 from '../img/ps2.png'
+import gb from '../img/Layer 6.png'
 
 function Tiap2 ({image}){
     return(
@@ -15,7 +19,7 @@ function Tiap2 ({image}){
                   скриншот о покупке игры. Итоги розыгрыша
                   будут подведены 1 февраля. Удачи! ;)</p>
             <div className="flexr tiap21">
-                <div>
+                <div className="tiap22">
                     <input className="input-tiap2"></input>
                     <input className="input-tiap21"></input>
                     <div className="div-b">
@@ -28,9 +32,10 @@ function Tiap2 ({image}){
                         <p className="p-chekt">Согласен на обработку персональных данных</p>
                     </article>
                 </div>
-                <div>
-
-                </div>
+                {/* <img className="ps" src={ps}></img>
+                <img className="gy" src={gy}></img>
+                <img className="ps1" src={ps1}></img>
+                <img className="gb" src={gb}></img> */}
             </div>
         </div>
     )

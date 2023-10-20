@@ -85,7 +85,7 @@
   width: 788px;
 }
 
-.g{
+.G{
   background-image: url("img/g.png");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -125,6 +125,8 @@
 
 .tiap2{
   background: #000;
+  position: relative;
+  font-family: monospace;
 }
 
 .ax{
@@ -164,9 +166,10 @@
   font-size: 18px;
   border: none;
   background-color: #000;
-  margin-top: 40%;
-  margin-left: 60%;
+  margin-top: 20%;
+  margin-left: 25%;
   border-bottom: 1px solid #777;
+  width: 60%;
 }
 
 .input-tiap21{
@@ -174,9 +177,10 @@
   font-size: 18px;
   border: none;
   background-color: #000;
-  margin-top: 20%;
-  margin-left: 60%;
+  margin-top: 10%;
+  margin-left: 25%;
   border-bottom: 1px solid #777;
+  width: 60%;
 }
 
 .a-tiap2{
@@ -186,19 +190,21 @@
 }
 
 .div-b{
-  margin-left: 50%;
+  margin-left: 25%;
   margin-top: 10%;
-  border: dashed;
+  border: 1px dashed #777;
+  padding-top: 5%;
+  padding-left: 18%;
+  width: 42%;
+  padding-bottom: 5%;
 }
 
-.a-tiap2{
-  margin-top: 20%;
-}
+
 
 .p-tiap21{
   color: #FFF;
   font-size: 12px;
-  margin-left: 18%;
+  margin-left: 10%;
 }
 
 .buton-tiap2{
@@ -208,23 +214,174 @@
   height: 59px;
   border: none;
   width: 192px;
-  margin-left: 45%;
+  margin-left: 25%;
   margin-top: 10%;
-}
-
-.art-tiap2{
-  margin-left: 5%;
 }
 
 .chekt{
   width: 14px;
   height: 14px;
-  margin-top: 3.5%;
-  margin-left: 45%;
+  margin-top: 2%;
+  margin-left: 25%;
 }
 
 .p-chekt{
   font-size: 12px;
   color: #FFF;
-  margin-left: 3%;
+  margin-left: 1%;
+}
+
+.tiap22{
+  width: 780px;
+}
+
+.ps{
+  z-index: 3;
+  width: 296px;
+  margin-left: 10%;
+}
+
+.ps1{
+  z-index: 3;
+  width: 296px;
+}
+
+.gy{
+  z-index: 1;
+  width: 460px;
+}
+
+.gb{
+  z-index: 2;
+  width: 460px;
+}
+
+.GY{
+  background-image: url("./img/22\ 2.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 70px;
+  width:100%;
+}
+
+.tiap3{
+  background-color: #F8F200;
+}
+
+.tiap31-imgs{
+  display: inline-block;
+}
+
+.tiap31{
+  padding-top: 4%;
+  padding-left: 10%;
+  padding-bottom: 4%;
+}
+
+.hp{
+  margin-left: 10%;
+}
+
+.X{
+  margin-left: 4%;
+  margin-bottom: 4%;
+  margin-right: 4%;
+}
+
+.tiap32{
+  padding-left: 2%;
+}
+
+.h2-tiap32{
+  width: 660px;
+  color: #000;
+  font-size: 62px;
+}
+
+.p-tiap32{
+  width: 624px;
+  color: #000;
+  font-size: 18px;
+}
+
+.img-art-tiap32{
+  width: 32px;
+  height: 32px;
+  margin-top: 2%;
+}
+
+.art-tiap32{
+  margin-top: 1%;
+}
+
+.p-art-tiap32{
+  color: #000;
+  font-size: 18px;
+  margin-left: 2%;
+}
+
+.buton-tiap32{
+  background-color: #000;
+  color: #F8F200;
+  padding: 15px 50px;
+  margin-top: 2%;
+}
+
+.tiap41{
+  background-image: url("./img/Untitled-1\ 1.png");
+  background-size: 100%;
+  width: 50%;
+}
+
+.tiap42{
+  background-color: #000;
+  padding-left: 2%;
+  width: 976px;
+}
+
+.h2-tiap42{
+  width: 624px;
+  color: #FFF;
+  font-size: 62px;
+}
+
+.p-tiap42{
+  font-size: 24px;
+}
+
+.art-tiap42{
+  margin-bottom: 3%;
+}
+
+.img-art-tiap42{
+  height: 32px;
+  width: 32px;
+  margin-top: 2%;
+}
+
+.p-art-tiap42{
+  color: #FFF;
+  font-size: 18px;
+  margin-left: 2%;
+}
+
+.img1-tiap42{
+  margin-top: 2%;
+  width: 62px;
+}
+
+.img2-tiap42{
+  width: 178px;
+  margin-left: 60%;
+}
+
+.img3-tiap42{
+  width: 58px;;
+  margin-top: 20%;
+}
+
+.img4-tiap42{
+  width: 169px;
+  margin-left: 60%;
+  margin-top: 20%;
 }
